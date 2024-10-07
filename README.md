@@ -10,8 +10,6 @@
 
 ## Learning Outcomes
 
-This project has been a valuable learning experience, allowing me to:
-
 - Sharpen skills in **SwiftUI** for building modern and responsive user interfaces.
 - Gain deeper insights into structuring and developing functional mobile applications.
 
